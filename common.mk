@@ -273,6 +273,7 @@ PRODUCT_PACKAGES += \
     CarrierConfigResCommon \
     DeviceAsWebcamResTarget \
     FrameworksResTarget \
+    NcmTetheringOverlay \
     OPlusFrameworksResCommon \
     OPlusSettingsResCommon \
     OPlusSystemUIResCommon \
